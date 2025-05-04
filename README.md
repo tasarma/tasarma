@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahmut Tasar
 - 👀 I’ve been coding in Python and Typescript for over 3 years.
 - 🌱 I’m learning Rust at the moment.
-- 📫 You can follow me on Medium <a href="https://darageoai.medium.com/"> mhmtsr.medium </a>
+- 📫 You can follow me on Medium <a href="https://mhmtsr.medium.com/"> mhmtsr.medium </a>
 
 I discovered my passion for coding during my bachelor's degree in Geomatics Engineering, where I took my first course in C programming. This foundation inspired me to explore further, and I completed courses in Python, SQL, and Advanced Python during both my bachelor's and master's studies. Later, I stepped into the JavaScript and React.js ecosystem, deepening my expertise in web development.
 
